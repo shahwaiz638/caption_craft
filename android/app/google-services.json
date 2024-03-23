@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223554464243",
+    "project_id": "captioncraft-c18a3",
+    "storage_bucket": "captioncraft-c18a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223554464243:android:a64de32ffe4ccbe7760a86",
+        "android_client_info": {
+          "package_name": "com.example.caption_craft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9SiUAok_K17piG5vHoh9MQc37Qkeg8Es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
