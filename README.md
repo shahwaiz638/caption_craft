@@ -1,3 +1,5 @@
+### Flutter Application code can be found in `application` branch
+
 # Distillation
 
 1) We assumes that the dataset (`/captions` and `/captions_dev`) is placed or symlinked in the `/data` folder.
